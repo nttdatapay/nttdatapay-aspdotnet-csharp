@@ -10,7 +10,12 @@ This is an example of integration code for ASP.NET (C#), illustrating the proces
 
 ## Project Structure
 
-The project contains the following files and folder: -POJO-Contain classes for require entities -Default-sample page for show token and initiate the checkout page. -Default.aspx- includes code for initiating payment requests, generating tokens, and implementing encryption logic.c-Response-sample page for show response -Response.aspx-includes code for capturing payment responses and implementing encryption logic.
+The project contains the following files and folder: 
+- POJO-Contain classes for require entities 
+- Default-sample page for show token and initiate the checkout page. 
+- Default.aspx- includes code for initiating payment requests, generating tokens, and implementing encryption logic.
+- Response-sample page for show response 
+- Response.aspx-includes code for capturing payment responses and implementing decryption logic.
 
 ## Integration
 
